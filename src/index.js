@@ -178,4 +178,4 @@ function createEmptyHourglass(n){
     createEmptyTriangle(h);
 }
 //createEmptyHourglass(8);
-//console.log(createEmptyHourglass(8) + " ");
+//console.log(" ");
